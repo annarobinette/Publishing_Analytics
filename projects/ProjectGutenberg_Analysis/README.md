@@ -1,7 +1,7 @@
 # Project Gutenberg Analysis
 
 ## Overview
-Analysis of Project Gutenberg's digital library catalog focusing on language distribution and subject popularity.
+Project Gutenberg is a digital library of over 70,000 free eBooks, consisting primarily of works for which U.S. copyright has expired. Founded in 1971, it represents one of the oldest and largest collections of freely available digital books. While not a commercial publisher, analysing Project Gutenberg's data provides valuable insights into digital reading patterns for historical works across different languages. This analysis was conducted to demonstrate data analytics capabilities in a publishing context, specifically examining how historical works perform in digital formats across different languages and markets. By analysing download patterns and language distribution in Project Gutenberg's corpus, I can understand global digital engagement with classic literature - information that could be valuable for publishers considering digital republishing strategies, translation priorities, or market expansion opportunities. However, it's important to note that this analysis has specific limitations: the works are all out of copyright in the US, available only in digital format, and represent historical rather than contemporary content. Despite these constraints, the dataset provides a clean, well-structured sample for demonstrating publishing analytics capabilities, especially in visualising and interpreting multi-language market performance data.
 
 ## Data Sources
 - Project Gutenberg API
